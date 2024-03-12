@@ -44,7 +44,7 @@
   <Footer />
 </footer>
 
-<ForkMe />
+<!-- <ForkMe /> -->
 
 <style lang="scss" global>
   @import '../styles/global';

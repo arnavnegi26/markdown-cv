@@ -1,19 +1,18 @@
 {
-  "name": "@greenek/cv",
-  "version": "2023.0.0",
-  "description": "Paweł Golonko – Curriculum Vitae",
-  "author": "Paweł Golonko <pgolonko@gmail.com>",
+  "name": "@ajdjyt/markdown-cv",
+  "version": "2024.0.0",
+  "description": "Arnav Fernandes – Curriculum Vitae",
+  "author": "Arnav Fernandes <ajdjking@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Greenek/cv.git"
+    "url": "git+https://github.com/ajdjyt/markdown-cv.git"
   },
   "keywords": [
     "cv",
     "resume",
     "webdeveloper"
   ],
-  "license": "MIT",
-  "homepage": "https://greenek.com/",
+  "homepage": "https://cv.arjf.me/",
   "private": true,
   "scripts": {
     "start": "sirv public",
