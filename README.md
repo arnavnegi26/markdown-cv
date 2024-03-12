@@ -2,8 +2,7 @@
 
 # Arnav Fernandes
 
-and I'm a MLOps Engineer.
-
+and I'm a MLops engineer.
 ***
 
 ## About me
@@ -18,142 +17,43 @@ In love with coding, sound, and visuals.
 ### Follow
 
 - [github.com/ajdjyt](https://github.com/ajdjyt)
-- [dribble.com/Greenek](https://dribbble.com/Greenek)
-- [/in/ArnavFernandes](https://linkedin.com/in/arnav-fernandes-50b62524b)
-
+- [/in/ArnavFernandes](https://linkedin.com/in/arnavfernandes)
+- [@arnav_fernandes](https://x.com/arnav_fernandes)
 ***
 
 ## Experience
 
-- ##### November 2023 – present
+- ##### February 2024 – Present
 
-  ### Aize
+  ### HyperVerge
 
-  #### Principal Software Engineer
+  #### Research Fellow
+  
+  Working with the team at HyprVerge to research on new problems and learn along the way,
 
-  Leading the development of the **Design System and Data Visualization** libraries used in Aize applications.
+  - Developed and deployed Transformers models for verification, integrating Time series models to solve real‑world problems,
+  - Optimized verification performance by 15% and speed by 25% through Signal Processing,
+  - Working with a team of like minded individuals.
 
-  - Crafting a **unified and consistent user experience** across products by creating and refining design patterns, components, and guidelines.
-  - **Collaborating with cross-functional teams**, including designers, developers, and product managers, to ensure efficient and cohesive development processes.
-  - Contributing to **enhancing the quality and usability** of Aize products.
-  - **Mentoring and guiding** fellow engineers, cultivating a culture of collaboration.
+  > _Python_ _Pytorch_
 
-  > _Angular_ _Typescript_ _D3_ _NX_ _Storybook_ _GitLab_ _Figma_
+- ##### Jan 2023 – Presenet
 
-- ##### May 2019 – October 2023
+  ### Next Tech Lab
 
-  ### Circle K Business Centre / Madiff
+  #### McCarthy Lab Member
+  
+  A student led. internationally recognized research lab, honored with the prestigious QS Award,
 
-  #### Senior Front-end Developer
+  - Received guidance from great seniors and guided my juniors.
 
-  Built a scalable system enabling the execution of Angular pages with content served by a decoupled Drupal using the JSON:API protocol.
+  > _Python_ _Tensorflow_ _Pytorch_
 
-  - Designed and implemented a solution that allowed for the creation of **customized landing pages** in the Drupal CMS and dynamically rendered them in an Angular application.
-  - Developed an **e-commerce module** integrated with internal and external services such as Salesforce, Adyen, or Klarna.
-  - Optimized the application for better **performance and accessibility**.
-  - **Collaborated with business and team members** to provide the most valuable product.
-  - Worked together with UI/UX designers on the implementation of the **design system**.
-  - Improved the **branching and release workflows**.
-
-  > _Angular_ _Typescript_ _NX_ _NestJS_ _SSR_ _JSONAPI_
-
-- ##### July 2018 – May 2019
-
-  ### ITDS Business Consultants
-
-  #### Front-end Developer
-
-  Developing applications and tools for banking company clients (i.e. **Credit Suisse**), such as:
-
-  - **Credit risk** dashboards,
-  - A **gamified** in-house platform for employee engagement.
-
-  > _AngularJS_ _Angular_ _TypeScript_ _SASS_ _ag-Grid_
-
-- ##### March 2015 – April 2018
-
-  ### LogZilla Corporation
-
-  #### Lead UI Architect
-
-  **LogZilla** is the leader in delivering real-time network insight with an intelligent network operations platform.
-
-  As a Lead UI Architect I was responsible for the entire process of creating the user interface for `LogZilla 5.x`, during which I:
-
-  - Built an application capable of **processing huge volumes of data** (up to **1M events per seconds**) and rendering the results in real time.
-  - Researched and **implemented new functionalities**.
-  - **Refined existing UX/UI** projects and prototyped new components.
-  - **Led an international team** of developers.
-  - **Collaborated with the backend developers** team to improve communication performance between server and client.
-  - Created and maintained an **automated build system**.
-
-  > _AngularJS_ _JavaScript_ _LESS_ _Bootstrap_ _ECharts_ _WebSocket_ _NodeJS_ _ClosureCompiler_ _Grunt_ _Bower_
-
-- ##### December 2013 – March 2015
-
-  ### HOQS
-
-  #### Senior Full-Stack Developer
-
-  **HOQS** is a digital agency based in Kraków, Poland.
-
-  - Led and managed web and interactive projects for the company's clients, including **landing pages**, **cultural events' websites**, **social games integrated with Facebook**, **custom e-learning platforms**, and many others.
-  - Provided **support for websites** maintained by the company.
-  - Built **tools for monitoring** the activity and health of internal systems.
-  - Improved **developers' efficiency** through training them in new technologies and modern programming techniques.
-
-  Major clients: **Nowe Motywacje**, **Digart.pl**, **nazwa.pl**, **Onet**, **LexisNexis**, **evercare**.
-
-  > _PHP_ _Moodle_ _LESS_ _Bootstrap_ _JavaScript_ _AngularJS_ _NodeJS_
-
-- ##### May 2012 – December 2013
-
-  ### Professional design / CG2
-
-  #### Back-end Developer
-
-  CG2 is a digital agency based in Opole, Poland.
-
-  - Designed and built a **dedicated development platform** with a rich **content management system** focused on stability, optimization, and easy extending.
-  - Deployed websites for company clients.
-
-  > _PHP_ _Kohana_ _MySQL_ _HTML_ _CSS_ _LESS_ _Bootstrap_ _JavaScript_ _jQuery_
-
-- ##### 2007-2014
-
-  ### Spoko Brand
-
-  #### Full-Stack Developer
-
-  **Spoko Brand** is a company with experience in creating and managing specialized online stores with global reach.
-
-  - Created a scalable **e-commerce platform** running the company's online shops ([Hedonskate](http://hedonskate.com), Bladeville, and TwoTip).
-  - Design an **optimized store database** with shared stock inventory.
-  - Developed a full-text search system based on **Sphinx**.
-  - Implemented a stock quote **SOAP web service** and integration with external APIs, e.g. Braintree, UPS, InPost.
-  - Improved sites **SEO** under the guidance of Google experts.
-  - Coded a variety of tools for maintaining, extending, and **enhancing security**.
-
-  > _PHP_ _MySQL_ _LESS_ _jQuery_ _SOAP_
-
-- ##### 2004 – December 2017
-
-  ### Freelance
-
-  #### Full-Stack Developer
-
-  Major clients:
-
-  - Online shops (**Be-Mag**, **Snapbox**, **Fandango Records**),
-  - Music artists (**Miuosh**, **Lilu**, **Believe**, **Decybele Dizajnu**),
-  - Sportsmen (**Szczepan Karpiel-Bułecka**, **Bartek Sibiga**, **Tomasz Kwiecień**),
-  - Fashion and graphic designers (**The Hive**, **Aaaghr**, **From Froggy With Love**, **Admirable**, **CustomTop**).
-
-  > _PHP_ _Kohana_ _Wordpress_ _MySQL_ _HTML_ _CSS_ _LESS_ _Bootstrap_ _JavaScript_ _jQuery_ _PayPal_ _PayU_ _WorldPay_ _LastFm_ _PrestaShop_
-
-- ##### July 17th, 1988
+- ##### March 10, 2004
 
   ### Born
+
+
 
 ***
 
@@ -161,66 +61,64 @@ In love with coding, sound, and visuals.
 
 ### Proficient in
 
-- creating **single-page web applications** and interactive **user interfaces**,
-- writing optimal and **efficient TypeScript** code compatible with current ECMAScript standards,
-- writing **semantic HTML and CSS** code, compliant with W3C standards,
+- Designing and building model pipelines using **Tensorflow** and **Pytorch**,
+- Working with complex architectures such as *Deep Convolutional GANs* on multi class datasets,
+- Implementing **RAG** systems on LLMs using **Vector Databases**,
+- Deploying LLMs in production using **LangChain**,
+- Implementing CI/CD pipelines using **Jenkins**.
+- Deploying and building **Docker** containers and stacks,
+- Developing IAC infrastructure using **Ansible** and **Terraform**,
+- Setting up cloud environments using **Cloud-Init**.
+- Using **Linux** systems on the daily for 10 years,
 - producing **clean and readable code** using **design patterns**,
 - solving **complex problems**,
-- **debugging and profiling code** with Chrome DevTools,
-- **frameworks** (Angular), **preprocessors** (Sass) and **other tools** (Git, Eslint).
+- **frameworks** (Tensorflow, PyTorch), **other tools** (Git).
 
 ### Knowledge of
 
+- Distributed deployment using **Kubernetes**,
 - building efficient **API services**,
-- publishing and maintaining **open source** projects,
-- prototyping **accessible and user-friendly interfaces** using WAI-ARIA standards,
-- automating tasks using **Bash scripts** and **POSIX commands**.
+- Prototyping **accessible and user-friendly interfaces**,
+- Automating tasks using **Bash scripts** and **POSIX commands**,
+- I use arch btw.
 
 ### Additional skills
 
 - very good **communication** and **interpersonal** skills,
-- **reliable** and **focused** on providing high-quality product,
+- **reliable** and **focused** on providing high-quality products,
 - **fast learner** and always willing to **share knowledge**,
-- can **exit vim** in at least 5 different ways ;).
+- can **exit vim** ;).
 
 ### Languages
 
-- Polish (native),
 - English (fluent),
-- Norwegian (basic).
+- Hindi (native).
 
 ***
 
 ## Education
 
-### Master of Science (M.Sc.), Computer Software Engineering
+### Bachelors of Technology (B.Tech.), Artificial Intelligence
 
-#### Politechnika Białostocka, 2014
+#### SRM Institute of Science and Technology, 2022-26
 
-> The comparison of the methods of the execution of contact-free interface applying the track of movement in the image from the camera
-
-Implemented algorithms for real-time analysis of images captured by web camera to provide touchless computer interface.
-
-> _#Java_ _#JavaCV_
 
 ***
 
 ## After Hours
 
-### Audiovisual art
+### Cars and F1
 
-Translating sound into image with audio-reactive code and live video mixing.
+Looking and speccing my dream cars while watching the F1 GP really gets me going.
 
 ### Music production
 
-Exploring magical world of creating sounds inspired by drum and bass and rap music.
+I love making and mixing music.
 
-### Nature
+### Photography
 
-Exploring the beauty of Norway.
-
+Taking a good portrait photo, or Telephoto always makes me smile.
 ***
 
-Built with **Svelte** and **Markdown**.
-
-Check [the source code](https://github.com/Greenek/cv).
+Check [the source code](https://github.com/ajdjyt/markdown-cv).
+Forked from [Pavel Golonko](https://github.com/Greenek/cv).

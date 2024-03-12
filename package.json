@@ -23,7 +23,8 @@
     "dev": "npm run build -- -w",
     "format": "prettier --write \"src/**/*.{js,jsx}\"",
     "lint": "prettier --check \"src/**/*.{js,jsx}\"",
-    "postversion": "echo $(git push --tags)"
+    "postversion": "echo $(git push --tags)",
+    "build-readme": "node ./scripts/build-readme.cjs"
   },
   "dependencies": {
     "figlet": "^1.6.0",
