@@ -1,13 +1,13 @@
 ## After Hours
 
-### Audiovisual art
+### Cars and F1
 
-Translating sound into image with audio-reactive code and live video mixing.
+Looking and speccing my dream cars while watching the F1 GP really gets me going.
 
 ### Music production
 
-Exploring magical world of creating sounds inspired by drum and bass and rap music.
+I love making and mixing music.
 
-### Nature
+### Photography
 
-Exploring the beauty of Norway.
+Taking a good portrait photo, or Telephoto always makes me smile.

@@ -28,7 +28,8 @@
   "dependencies": {
     "figlet": "^1.6.0",
     "reset.css": "^2.0.2",
-    "sirv-cli": "^2.0.2"
+    "sirv-cli": "^2.0.2",
+    "vercel": "^33.5.5"
   },
   "devDependencies": {
     "@rollup/plugin-commonjs": "^25.0.4",
@@ -39,8 +40,8 @@
     "rollup": "^3.29.0",
     "rollup-plugin-css-only": "^4.3.0",
     "rollup-plugin-livereload": "^2.0.5",
-    "rollup-plugin-svelte": "^7.1.6",
     "rollup-plugin-terser": "^7.0.2",
+    "rollup-plugin-svelte": "^7.1.6",
     "sass": "^1.66.1",
     "svelte": "^4.2.0",
     "svelte-image": "^0.2.9",
@@ -49,3 +50,5 @@
   },
   "browserslist": "last 2 versions"
 }
+
+

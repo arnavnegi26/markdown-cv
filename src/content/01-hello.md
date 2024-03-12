@@ -1,14 +1,14 @@
 ## About me
 
-Web developer with **over 19 years' experience** in creating a wide variety of web solutions, from small business websites to **complex e-commerce platforms** and **enterprise applications** used by specialists around the world. Familiar with all phases of the software development lifecycle. Finds Zen in the aesthetic code.
+MLOps Engineer with deep interests in both fields.
 
-Geek in love with coding, sound, and visuals, preferably at the same time.
+In love with coding, sound, and visuals.
 
-- [greenek.com](https://greenek.com)
-- [pgolonko@gmail.com](mailto:pgolonko@gmail.com)
+- [arjf.me](https://arjf.me)
+- [arjf@protonmail](mailto:arjf@protonmail.com)
 
 ### Follow
 
-- [github.com/Greenek](https://github.com/Greenek)
-- [dribbble.com/Greenek](https://dribbble.com/Greenek)
-- [/in/pawelgolonko](https://linkedin.com/in/pawelgolonko)
+- [github.com/ajdjyt](https://github.com/ajdjyt)
+- [dribble.com/Greenek](https://dribbble.com/Greenek)
+- [/in/ArnavFernandes](https://linkedin.com/in/arnav-fernandes-50b62524b)
