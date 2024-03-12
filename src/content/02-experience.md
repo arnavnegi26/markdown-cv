@@ -11,14 +11,6 @@
   - Developed and deployed Transformers models for verification, integrating Time series models to solve real‑world problems,
   - Optimized verification performance by 15% and speed by 25% through Signal Processing,
   - Working with a team of like minded individuals.
-  <!--
-  Leading the development of the **Design System and Data Visualization** libraries used in Aize applications.
-
-  - Crafting a **unified and consistent user experience** across products by creating and refining design patterns, components, and guidelines.
-  - **Collaborating with cross-functional teams**, including designers, developers, and product managers, to ensure efficient and cohesive development processes.
-  - Contributing to **enhancing the quality and usability** of Aize products.
-  - **Mentoring and guiding** fellow engineers, cultivating a culture of collaboration.
-  -->
 
   > _Python_ _Pytorch_
 
@@ -28,16 +20,9 @@
 
   #### McCarthy Lab Member
   
-  A student led. internationally recognized research lab, honored with the prestigious QS Award.
-  <!--Built a scalable system enabling the execution of Angular pages with content served by a decoupled Drupal using the JSON:API protocol.
+  A student led. internationally recognized research lab, honored with the prestigious QS Award,
 
   - Received guidance from great seniors and guided my juniors.
-  - Designed and implemented a solution that allowed for the creation of **customized landing pages** in the Drupal CMS and dynamically rendered them in an Angular application.
-  - Developed an **e-commerce module** integrated with internal and external services such as Salesforce, Adyen, or Klarna.
-  - Optimized the application for better **performance and accessibility**.
-  - **Collaborated with business and team members** to provide the most valuable product.
-  - Worked together with UI/UX designers on the implementation of the **design system**.
-  - Improved the **branching and release workflows**. -->
 
   > _Python_ _Tensorflow_ _Pytorch_
 
