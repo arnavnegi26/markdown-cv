@@ -1,4 +1,4 @@
-<a href="https://github.com/Greenek/cv">Fork me on GitHub</a>
+<a href="https://github.com/ajdjyt/markdown-cv">Fork me on GitHub</a>
 
 <style lang="scss">
   @import '../styles/theme.scss';
