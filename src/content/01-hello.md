@@ -11,3 +11,4 @@ In love with coding, sound, and visuals.
 
 - [github.com/ajdjyt](https://github.com/ajdjyt)
 - [/in/ArnavFernandes](https://linkedin.com/in/arnav-fernandes-50b62524b)
+- [@arnav_fernandes](https://x.com/arnav_fernandes)
