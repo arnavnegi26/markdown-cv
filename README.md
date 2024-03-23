@@ -88,7 +88,7 @@ Playing and watching videos on games and all aspects of their development
 
 ### Movies
 
-I have a Letterboxd account :) [My Letterboxd](https://letterboxd.com/solidsaanp/) .
+I have a Letterboxd account :) [My Letterboxd](https://letterboxd.com/solidsaanp/).
 
 ### Music
 
