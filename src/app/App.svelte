@@ -36,7 +36,7 @@
       <svelte:component this={section.component} />
     </Section>
   {/each}
-
+<a href="/resume.pdf" alt="Download Resume" target="_blank">Download Resume</a>
   <!-- <img src="images/me.jpeg" id="me" alt="Heisann" /> -->
 </main>
 
