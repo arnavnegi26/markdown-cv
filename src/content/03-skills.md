@@ -2,17 +2,15 @@
 
 ### Knowledge of
 
-- Distributed deployment using **Kubernetes**,
-- building efficient **API services**,
-- Prototyping **accessible and user-friendly interfaces**,
-- Automating tasks using **Bash scripts** and **POSIX commands**,
-- I use arch btw.
+- **Game**, **Level** and **Narrative** Design for Video Games.
+- Game Development in **Unity**.
+- Making music on **FL Studio 21**.
 
 ### Additional skills
 
-- very good **communication** and **interpersonal** skills,
-- **reliable** and **focused** on providing high-quality products,
-- **fast learner** and always willing to **share knowledge**,
+- good **communication** and **interpersonal** skills.
+- always **looking to learn** and **expand my horizons**.
+- **fast learner** and always willing to **share knowledge**.
 
 ### Languages
 
