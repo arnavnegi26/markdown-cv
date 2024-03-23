@@ -1,34 +1,30 @@
 ## Experience
 
-- ##### February 2024 – Present
+- ##### January 2024 – Present
 
-  ### HyperVerge
+  ### LSD Game Jam 2024
 
-  #### Research Fellow
+  #### Game Designer
   
-  Working with the team at HyprVerge to research on new problems and learn along the way,
+  Worked with my fellow labmates at Pausch Lab to make a game for the LSD Game Jam, where I worked as a Game and Narrative Designer.
 
-  - Developed and deployed Transformers models for verification, integrating Time series models to solve real‑world problems,
-  - Optimized verification performance by 15% and speed by 25% through Signal Processing,
-  - Working with a team of like minded individuals.
+  ##### January 2024
 
-  > _Python_ _Pytorch_
+  ### Global Game Jam 2024
 
-- ##### Jan 2023 – Presenet
+  #### Game Designer
+
+  Made a game within 48 hours, working as a Game Desginer.
+
+- ##### September 2023 – Present
 
   ### Next Tech Lab
 
-  #### McCarthy Lab Member
+  #### Pausch Lab Associate
   
-  A student led. internationally recognized research lab, honored with the prestigious QS Award,
+  A student led. internationally recognized research lab, honored with the prestigious QS Award.
 
-  - Received guidance from great seniors and guided my juniors.
 
-  > _Python_ _Tensorflow_ _Pytorch_
-
-- ##### March 10, 2004
-
-  ### Born
 
 <style lang="scss">
   @import '../styles/theme.scss';

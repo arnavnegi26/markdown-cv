@@ -1,14 +1,13 @@
 ## About me
 
-MLOps Engineer with deep interests in both fields.
+Game Designer looking into various aspects of Game Development like Level and Narrative Design.
 
-In love with coding, sound, and visuals.
 
-- [arjf.me](https://arjf.me)
-- [arjf@protonmail](mailto:arjf@protonmail.com)
 
-### Follow
+- [arnavnegi.me](https://arnavnegi.me)
+- [arnav.s.negi26@gmail.com](mailto:arnav.s.negi26@gmail.com)
 
-- [github.com/ajdjyt](https://github.com/ajdjyt)
-- [/in/ArnavFernandes](https://linkedin.com/in/arnavfernandes)
-- [@arnav_fernandes](https://x.com/arnav_fernandes)
+## Follow
+
+- [github.com/arnavnegi26](https://github.com/arnavnegi26)
+- [/in/ArnavSinghNegi](https://linkedin.com/in/arnav-negi-212768251/)

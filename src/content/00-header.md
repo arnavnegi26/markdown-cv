@@ -1,5 +1,5 @@
 ### Hello! My name is
 
-# Arnav Fernandes
+# Arnav Singh Negi
 
-and I'm a MLops engineer.
+and I'm an aspiring Game Designer.
