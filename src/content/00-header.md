@@ -2,4 +2,4 @@
 
 # Arnav Singh Negi
 
-and I'm an aspiring Game Designer.
+I'm an aspiring Game Designer.

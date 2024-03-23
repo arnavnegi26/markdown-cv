@@ -1,57 +1,50 @@
 ### Hello! My name is
 
-# Arnav Fernandes
+# Arnav Singh Negi
 
-and I'm a MLops engineer.
+I'm an aspiring Game Designer.
 ***
 
 ## About me
 
-MLOps Engineer with deep interests in both fields.
+Game Designer looking into various aspects of Game Development like Level and Narrative Design.
 
-In love with coding, sound, and visuals.
 
-- [arjf.me](https://arjf.me)
-- [arjf@protonmail](mailto:arjf@protonmail.com)
 
-### Follow
+- [arnavnegi.me](https://arnavnegi.me)
+- [arnav.s.negi26@gmail.com](mailto:arnav.s.negi26@gmail.com)
 
-- [github.com/ajdjyt](https://github.com/ajdjyt)
-- [/in/ArnavFernandes](https://linkedin.com/in/arnavfernandes)
-- [@arnav_fernandes](https://x.com/arnav_fernandes)
+## Follow
+
+- [github.com/arnavnegi26](https://github.com/arnavnegi26)
+- [/in/ArnavSinghNegi](https://linkedin.com/in/arnav-negi-212768251/)
 ***
 
 ## Experience
 
-- ##### February 2024 – Present
+- ##### January 2024 – Present
 
-  ### HyperVerge
+  ### LSD Game Jam 2024
 
-  #### Research Fellow
+  #### Game Designer
   
-  Working with the team at HyprVerge to research on new problems and learn along the way,
+  Worked with my fellow labmates at Pausch Lab to make a game for the LSD Game Jam, where I worked as a Game and Narrative Designer.
 
-  - Developed and deployed Transformers models for verification, integrating Time series models to solve real‑world problems,
-  - Optimized verification performance by 15% and speed by 25% through Signal Processing,
-  - Working with a team of like minded individuals.
+  ##### January 2024
 
-  > _Python_ _Pytorch_
+  ### Global Game Jam 2024
 
-- ##### Jan 2023 – Presenet
+  #### Game Designer
+
+  Made a game within 48 hours, working as a Game Desginer.
+
+- ##### September 2023 – Present
 
   ### Next Tech Lab
 
-  #### McCarthy Lab Member
+  #### Pausch Lab Associate
   
-  A student led. internationally recognized research lab, honored with the prestigious QS Award,
-
-  - Received guidance from great seniors and guided my juniors.
-
-  > _Python_ _Tensorflow_ _Pytorch_
-
-- ##### March 10, 2004
-
-  ### Born
+  A student led. internationally recognized research lab, honored with the prestigious QS Award.
 
 
 
@@ -59,66 +52,48 @@ In love with coding, sound, and visuals.
 
 ## Skills
 
-### Proficient in
-
-- Designing and building model pipelines using **Tensorflow** and **Pytorch**,
-- Working with complex architectures such as *Deep Convolutional GANs* on multi class datasets,
-- Implementing **RAG** systems on LLMs using **Vector Databases**,
-- Deploying LLMs in production using **LangChain**,
-- Implementing CI/CD pipelines using **Jenkins**.
-- Deploying and building **Docker** containers and stacks,
-- Developing IAC infrastructure using **Ansible** and **Terraform**,
-- Setting up cloud environments using **Cloud-Init**.
-- Using **Linux** systems on the daily for 10 years,
-- producing **clean and readable code** using **design patterns**,
-- solving **complex problems**,
-- **frameworks** (Tensorflow, PyTorch), **other tools** (Git).
-
 ### Knowledge of
 
-- Distributed deployment using **Kubernetes**,
-- building efficient **API services**,
-- Prototyping **accessible and user-friendly interfaces**,
-- Automating tasks using **Bash scripts** and **POSIX commands**,
-- I use arch btw.
+- **Game**, **Level** and **Narrative** Design for Video Games.
+- Game Development in **Unity**.
+- Making music on **FL Studio 21**.
 
 ### Additional skills
 
-- very good **communication** and **interpersonal** skills,
-- **reliable** and **focused** on providing high-quality products,
-- **fast learner** and always willing to **share knowledge**,
-- can **exit vim** ;).
+- good **communication** and **interpersonal** skills.
+- always **looking to learn** and **expand my horizons**.
 
 ### Languages
 
 - English (fluent),
 - Hindi (native).
+- Japanese (Current Learning)
 
 ***
 
 ## Education
 
-### Bachelors of Technology (B.Tech.), Artificial Intelligence
+### Bachelors of Technology (B.Tech.), Computer Science with Specialization in Software Engineering
 
 #### SRM Institute of Science and Technology, 2022-26
 
 
 ***
 
-## After Hours
+## Interests
 
-### Cars and F1
+### Video Games
 
-Looking and speccing my dream cars while watching the F1 GP really gets me going.
+Playing and watching videos on games and all aspects of their development
 
-### Music production
+### Movies
 
-I love making and mixing music.
+I have a Letterboxd account :) [My Letterboxd](https://letterboxd.com/solidsaanp/) .
 
-### Photography
+### Music
 
-Taking a good portrait photo, or Telephoto always makes me smile.
+You can always talk to me about Skrillex, Fred again.., Frank Ocean and MF Doom.
 ***
 
-Check [the source code](https://github.com/ajdjyt/markdown-cv).
+Check [the source code](https://github.com/arnavnegi26/markdown-cv).
 Forked from [Pavel Golonko](https://github.com/Greenek/cv).

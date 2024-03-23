@@ -1,13 +1,13 @@
-## After Hours
+## Interests
 
-### Cars and F1
+### Video Games
 
-Looking and speccing my dream cars while watching the F1 GP really gets me going.
+Playing and watching videos on games and all aspects of their development
 
-### Music production
+### Movies
 
-I love making and mixing music.
+I have a Letterboxd account :) [My Letterboxd](https://letterboxd.com/solidsaanp/) .
 
-### Photography
+### Music
 
-Taking a good portrait photo, or Telephoto always makes me smile.
+You can always talk to me about Skrillex, Fred again.., Frank Ocean and MF Doom.

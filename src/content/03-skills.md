@@ -10,9 +10,9 @@
 
 - good **communication** and **interpersonal** skills.
 - always **looking to learn** and **expand my horizons**.
-- **fast learner** and always willing to **share knowledge**.
 
 ### Languages
 
 - English (fluent),
 - Hindi (native).
+- Japanese (Current Learning)
